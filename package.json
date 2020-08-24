@@ -1,4 +1,5 @@
 {
+  "PackageName": "https://github.com/jacksonmakesgames/BaseUnityPackage",
   "name": "com.jackson.basescripts",
   "version": "1.0.0",
   "displayName": "Base scripts package",
