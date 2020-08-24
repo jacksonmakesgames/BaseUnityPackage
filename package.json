@@ -1,0 +1,15 @@
+{
+    "name": "com.jackson.basescripts",
+    "version": "1.0.0",
+    "displayName": "Base scripts package",
+    "description": "These are shared scripts across many games",
+    "dependencies":{
+        "com.unity.cinemachine": "2.6.1",
+        "com.unity.textmeshpro": "3.0.1",
+    },
+    "author": {
+        "name": "Jackson Dean",
+        "email": "jackson.makes.a.game@gmail.com",
+        "url": "https://www.jacksonsdean.com"
+    }
+}
